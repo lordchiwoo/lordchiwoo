@@ -2,7 +2,7 @@
 [Polymath/Bibliophilia/General Specialist]
 Make it work, make it right, make it fast  
 
-E-mail : <lordchiwoo@gmail.com>
+E-mail : <lordchiwoo@gmail.com>  
 Phone : +82 10 2849 2148
 
 안녕하세요. 활자중독/잡학다식 9년차 개발자 김거용입니다.  
