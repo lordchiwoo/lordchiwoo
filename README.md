@@ -85,7 +85,7 @@ Phone : +82 10 2849 2148
 	+ Whohaha 앱 외주 개발/유지보수
 		+ Android+Cocos2d, Java+Netty, RoR
   
-**KAIST** `2010.08 ~ 2011.11`  연구원
+**KAIST** `2010.08 ~ 2011.11`  연구원  
 System Biology And Bio Inspired Engineering Laboratory
 + 세포내 유전자/단백질 발현 Graph Visualization
 + JAVA/JGraph
