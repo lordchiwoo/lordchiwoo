@@ -26,7 +26,7 @@ Phone : +82 10 2849 2148
 + 크루즈 / 렌터카 예약 사이트 유지보수 및 마이그레이션
 	+ 역할 : 개발 총원 5 중 PL
 	+ 기술 Stack : AWS/GIT/SOAP/PHP/MySQL/JS/CSS
-	+ 백오피스 개선
+	+ 백오피스 개선 `2018.09 ~ 현재`
 		+ 예약 정보 동기화(본사 예약 Data - TMK DB) 
 		+  Feed 업데이트 속도 개선 : 30분~1시간 ->  1분 내외
 		+  예약 전환 자동화
@@ -35,13 +35,13 @@ Phone : +82 10 2849 2148
 		+ 선박정보 업데이트 자동화(본사 정보 Crawling 기능 개발)
 		+ 신규 선사 예약정보 제공 기능 추가 (Feed Update By REST API)
 		+ 본사 정산 문서 업로드 및 예약 데이터와 비교하는 기능 추가 개발
-	+ 유저 사이트 마이그레이션
+	+ 유저 사이트 마이그레이션 `크루즈 2020.01 ~ 2021.01` `렌터카 2020.01 ~ `
 		+  View/API 서버 분리
 		+  Legacy PHP에서 MVC 프레임워크로 마이그레이션
 			+ 주요 View들을 모듈화
 			+ 로그 및 예외 처리 공통 모듈 개발
 		+  XML 통신 모듈을 모던 PHP 구조로 개선
-	+ 유저사이트 개선
+	+ 유저사이트 개선 `2018.09 ~ 현재`
 		+ 예약과정을 SPA구조로 변경(기획/개발)
 		+ Multi AJAX(JS) -> Multi Curl(PHP)
 		+ 분할 결제 기능 개발
@@ -100,10 +100,11 @@ System Biology And Bio Inspired Engineering Laboratory
  
 **한성대학교** `2001.03 ~ 2008.08`  BS in Information&Communication Engineering
 + 8비트 MCU 설계 및 구현 (FPGA/C) `2008.03 ~ 2008.06` 졸업 프로젝트
-+ TFT-LCD 컨트롤러 구현 (ASM/C/MFC/AT Mega128 * 2)
++ 소모임 프로젝트 - TFT-LCD 컨트롤러 구현 (ASM/C/MFC/AT Mega128 * 2) `2007.03 ~ 2007.10`
 	+ 하드웨어 스키매틱 설계
 	+ 타이밍 컨트롤 알고리즘 설계
 	+ 시리얼 통신 및 GUI
+
 
 ## Other
 호주 워킹홀리데이 `2011.12 ~ 2012.11`
