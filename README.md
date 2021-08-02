@@ -99,6 +99,7 @@ System Biology And Bio Inspired Engineering Laboratory
  
  
 **한성대학교** `2001.03 ~ 2008.08`  BS in Information&Communication Engineering
++ GPA 4.02 / Early Graduation
 + 8비트 MCU 설계 및 구현 (FPGA/C) `2008.03 ~ 2008.06` 졸업 프로젝트
 + 소모임 프로젝트 - TFT-LCD 컨트롤러 구현 (ASM/C/MFC/AT Mega128 * 2) `2007.03 ~ 2007.10`
 	+ 하드웨어 스키매틱 설계
