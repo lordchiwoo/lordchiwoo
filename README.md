@@ -1,5 +1,5 @@
 # 김 거용(Leone Kim)
-[Polymath/Bibliophilia/General Specialist]
+[Polymath/Bibliophilia/General Specialist]  
 Make it work, make it right, make it fast  
 
 E-mail : <lordchiwoo@gmail.com>  
