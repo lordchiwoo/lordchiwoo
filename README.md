@@ -50,7 +50,7 @@ Phone : +82 10 2849 2148
 **(주)디노** `2017.05 ~ 2018.09`  개발팀 과장
 + S사/H사 향 반도체 플랜트 설계 BIM 프로그램 개발
 	+ 역할 : 개발 총원 7 중 팀원(파트별 개발)
-	+ 기술 Stack : C#/C++/3D Graphics
+	+ 기술 Stack : C#/C++/3D Graphics CAD
 	+ Revit - Building Component Exporter / Importer
 	+ 3DS Max - Plant Device Exporter / Importer
 	+ PointCloud Data Rendering을 위한 Spatial Data Structure 연구 개발
