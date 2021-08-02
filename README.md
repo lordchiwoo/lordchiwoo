@@ -1,5 +1,3 @@
-
-
 # 김 거용(Leone Kim)
 [Polymath/Bibliophilia/General Specialist]
 Make it work, make it right, make it fast  
@@ -78,7 +76,7 @@ Phone : +82 10 2849 2148
 	+ 바코드건+휴대폰+모바일웹 연동하여 입고/출고/재고관리하는 시스템을 개발하고 쇼핑몰 주문/출고 기능과 연동(DHL 3자물류 창고에서 사용)
 	+ ZPL을 사용하여 커스텀 상품택(with 바코드) 출력 기능 개발
 
-**(주)리얼폰트** `2012.09 ~ 2015.03`  연구소 선임연구원
+**(주)리얼폰트** `2013.09 ~ 2015.03`  연구소 선임연구원
 + 개인 폰트(TTF) 제작 앱 유지보수
 	+ 역할 : 개발 총원 1 (연구/개발)
 	+ 기술 Stack : Java/Android/JNI/C/PHP/MySQL
@@ -87,6 +85,10 @@ Phone : +82 10 2849 2148
 	+ Whohaha 앱 외주 개발/유지보수
 		+ Android+Cocos2d, Java+Netty, RoR
   
+**KAIST** `2010.08 ~ 2011.11`  연구원
+System Biology And Bio Inspired Engineering Laboratory
++ 세포내 유전자/단백질 발현 Graph Visualization
++ JAVA/JGraph
   
     
 ## Education
@@ -102,12 +104,19 @@ System Biology And Bio Inspired Engineering Laboratory
 	+ 하드웨어 스키매틱 설계
 	+ 타이밍 컨트롤 알고리즘 설계
 	+ 시리얼 통신 및 GUI
- 
+
+## Other
+호주 워킹홀리데이 `2011.12 ~ 2012.11`
++ 고기공장 3종 세트
+	- 소공장 냉동창고
+	- 닭공장 패킹파트
+	- 양공장 발골파트
+
 ## Language & Communication
-English
-- Have no difficulty with Business Conversation, both Written & Verbal Communication.
-- TOEIC-905(15/03/2013)
-- OPIC-IM3(15/02/2013)
++English
+	- Have no difficulty with Business Conversation, both Written & Verbal Communication.
+	- TOEIC-905(15/03/2013)
+	- OPIC-IM3(15/02/2013)
 
 
 ## Link
