@@ -109,15 +109,15 @@ System Biology And Bio Inspired Engineering Laboratory
 ## Other
 호주 워킹홀리데이 `2011.12 ~ 2012.11`
 + 고기공장 3종 세트
-	- 소공장 냉동창고
-	- 닭공장 패킹파트
-	- 양공장 발골파트
+	+ 소공장 냉동창고
+	+ 닭공장 패킹파트
+	+ 양공장 발골파트
 
 ## Language & Communication
-+English
-	- Have no difficulty with Business Conversation, both Written & Verbal Communication.
-	- TOEIC-905(15/03/2013)
-	- OPIC-IM3(15/02/2013)
++ English
+	+ Have no difficulty with Business Conversation, both Written & Verbal Communication.  
+	+ TOEIC-905(15/03/2013)  
+	+ OPIC-IM3(15/02/2013)
 
 
 ## Link
