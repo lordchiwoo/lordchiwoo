@@ -69,7 +69,7 @@ Phone : +82 10 2849 2148
 + 다이빙 장비 전문 쇼핑몰 유지보수 `2015.03 ~ 2016.03`
 	+ 역할 : 개발 총원 2 중 팀원
 	+ 기술 Stack : PHP/MySQL/JS/CSS
-	+ 
+	+ 백오피스 기능 개선 및 Slow Query Optimizing
 + 쇼핑몰 WMS 개발 `2015.07 ~ 2015.11`
 	+ 역할 : 개발 총원 1 (기획/개발)
 	+ 기술 Stack : PHP/MySQL/JS/CSS/ZPL
