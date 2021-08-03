@@ -10,7 +10,7 @@ Phone : +82 10 2849 2148
 Hello, My name is GuoYong Kim, or you can call me Leone, if my korean name is hard to pronunciate for you.  
 I'm fast learner, so if there's any tech/framework/language needed, I follow some tutorials and samples, And get used to it fast.  
 Also, I read a lot, have curiosity a lot(and google it right away).   
-Those habie makes me to have knowledge base across various domain from biology to rocket science... except fashion... :(   
+Those habit makes me to have knowledge base across various domain from biology to rocket science... except fashion... :(   
 
 I always think about "How to do this in better way", Not only about code but also about User.  
 Love to reviewing code/pair programming.  
