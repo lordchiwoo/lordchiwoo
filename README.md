@@ -1,3 +1,5 @@
+## If you feel more comfort to use english, see https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md
+
 # 김 거용(Leone Kim)
 [Polymath/Bibliophilia/General Specialist]  
 Make it work, make it right, make it fast  
