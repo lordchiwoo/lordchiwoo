@@ -4,7 +4,7 @@ Make it work, make it right, make it fast
 
 
 E-mail : <lordchiwoo@gmail.com>  
-Phone : +82 10 2849 2148
+Phone : +82 10 2859 2148
 
 
 Hello, My name is GuoYong Kim, or you can call me Leone, if my korean name is hard to pronunciate for you.  
