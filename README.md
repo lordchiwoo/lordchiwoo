@@ -16,6 +16,12 @@ Phone : +82 10 2859 2148
 코드리뷰/페어프로그래밍을 좋아하고,  
 어떻게 되게 하느냐보다 어떻게 "잘" 되게 하느냐를 더 고민하고 싶습니다.  
 
+개발언어 : PHP(5년) JS(3년) C#, C++(2.5년) JAVA(1.5년)  
+프레임워크 : CodeIgniter(MVC)(5년), WPF(2.5년) Android(1.5년)  
+DB : MySQL(6.5년)  
+OS : Linux (6.5년)  
+기타 : STM32 임베디드 개발(1년)  
+
 ## Interested in
 > Code Quality  
 > 믿을 수 있는 동료
