@@ -159,4 +159,5 @@ System Biology And Bio Inspired Engineering Laboratory
 
 ## Link
 코테 공부중`2021.05 ~ ` : https://github.com/lordchiwoo/algo_programmers
+코테 공부중 - 파이선 `2021.08 ~ ` : https://github.com/lordchiwoo/algorithm_python
 
