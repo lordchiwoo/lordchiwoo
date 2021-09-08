@@ -23,7 +23,30 @@ Want to spend more time not on how to do it, but how to do it "Nicely".
 > Reliable colleagues
 > 
   
+## Skills used and main duties
+
+Languages: PHP (5 years) JS (3 years) C#, C++ (2.5 years) JAVA (1.5 years) Python (0.5 years)
+Frameworks: CodeIgniter (MVC) (5 years), WPF (2.5 years), Android (1.5 years)
+DB: MySQL (6.5 years)
+OS: Linux (6.5 years)
+Other : STM32 Embedded Development (1 year)
   
+>Backend
+- Trace the root of the problem while tracing the route from the browser end call
+- Legacy code analysis and structure refactoring (focused on performance and readability)
+- Check bottlenecks and suggest workarounds through fundamental improvement or policy revision
+>DB
+- Basic Query execution plan check and optimization
+- Write queries using group functions and multiple joins
+- Improved readability and sanitizing using QueryBuilder
+>DevOps
+- Basic Linux commands / vi editor
+- Simple shell script
+- Crontab and Apache settings (VHOST, etc.)
+>Frontend
+- Partial SPA building experience using vanilla JS + AJAX
+- Vanilla JS / JQuery DOM Manipulation
+- CSS and HTML5 publishing
 
 ## Careers
 **Tour Marketing Korea Inc.** `2018.09 ~ Current`  Senior Developer in IT Management Team
