@@ -48,6 +48,17 @@ Other : STM32 Embedded Development (1 year)
 - Vanilla JS / JQuery DOM Manipulation
 - CSS and HTML5 publishing
 
+## Troubleshooting and collaboration
+
+>When I got requested for develop features related to accounting(settlement/reconciliation) and statistics in the field, not only implementing the requested items, but also suggesting those features that can be automated using information extracted from the DB. Moreover I took the initiative in refactoring codes not only to remove technical debts incurred while adding previous features, but also to improve Data/Code Consistency
+
+>In the process of migrating the legacy site, while reviewing the code of the juniors, I had not only migrating the code/feature, but also tried to improve the existing structure and led the refactoring to facilitate better performance/readability/maintenance.
+
+>When designing a 3D CAD program, I got the task of improving the data structure so that the data needed for rendering can be quickly retrieved. To understand, discuss and improve the rendering logic and the minimum required data, I had long and persistent discussion with the 3D engineer to analyzed the requirements and conducted R&D.
+
+>When developing a new WMS system, I had meetings with the DHL 3PL (office workers and warehouse personnel) to organize the business requirements. I draw directions that can be improved using the program while receiving/releasing goods, and reinforce the planning while discussing how much would it be better if a feature is added.  
+
+
 ## Careers
 **Tour Marketing Korea Inc.** `2018.09 ~ Current`  Senior Developer in IT Management Team
 + Migrating/Developing Website for Cruise/Rentcar for Oversea Reservation
