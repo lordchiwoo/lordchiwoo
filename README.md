@@ -1,4 +1,4 @@
-## If you feel more comfort to use english, see https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md
+## If you feel more comfort to use english, see [https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md](https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md)
 
 # 김 거용(Leone Kim)
 [Polymath/Bibliophilia/General Specialist]  
