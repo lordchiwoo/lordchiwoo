@@ -71,6 +71,7 @@ Other : STM32 Embedded Development (1 year)
   + Role : Plan, Design(DB/Application/Infrastructure) `2022.07~2023.04`
   + Stack : AWS ECS, GITHUB, Java/Spring, ReactJS
   + Under implementation phase by in-house develpers.
+  + The DB and application of ASIS have gone through multiple companies/developers, resulting in various issues such as denormalization and other overall problems. Therefore, we are currently undertaking a complete redesign and reconstruction.
 + Migrating/Developing Website for Cruise/Rentcar for Oversea Reservation
   + Role : Project leader among 5 developers in the company
   + Stack : AWS/GIT/SOAP/PHP/MySQL/JS/CSS
