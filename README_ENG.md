@@ -1,102 +1,93 @@
-## If you feel more comfortable using English, see [https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md](https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md)
-
-# Leone Kim (김거용)
+# Guoyong Kim (Leone Kim)
 
 **Email:** <lordchiwoo@gmail.com>  
 **Phone:** +82 10 2859 2148
 
-Hello, I am Leone Kim, an 11-year experienced developer. I quickly acquire new technologies and always strive to enhance code quality. I prioritize problem-solving, optimization, and efficient collaboration. I focus more on making things "well" rather than just making them work.
+Hello, I am Geoyong Kim, a developer with 11 years of experience.  
+I quickly learn new technologies and always strive to improve code quality.  
+I prioritize problem-solving, optimization, and efficient collaboration.  
+Rather than focusing on just getting things done, I want to focus on how to get things done "well."
 
-## Key Interests
-- Enhancing Code Quality
+## Main Interests
+- Improving Code Quality
 - Reliable Collaboration
 
-## Technical Skills
+## Technologies Used
 **Languages:** PHP (7 years), JavaScript (5 years), C# / C++ (2.5 years), Java (2.5 years), Python (0.5 years)  
 **Frameworks:** CodeIgniter (7 years), WPF (2.5 years), Android (1.5 years)  
-**Databases:** MySQL (8.5 years)  
-**Operating Systems:** Linux (8.5 years)  
+**DB:** MySQL (8.5 years)  
+**OS:** Linux (8.5 years)  
 **Others:** STM32 Embedded Development (1 year), Spring Toy Projects (6 months)
 
-## Primary Responsibilities
-### Backend Development
-- Analyzing legacy code and optimizing performance
-- Identifying and improving bottlenecks, proposing workarounds
-- Database design and optimization
+## Main Duties
+### Backend
+- Legacy Code Analysis and Performance Optimization
+- Improving Bottlenecks and Proposing Workarounds
 
-### Database Management
-- Optimizing query performance and writing advanced queries using group functions and multiple joins
-- Enhancing readability and security through query builders and sanitization
+### Database
+- Writing Advanced Queries using Group Functions and Multiple Joins
+- Query Performance Optimization
 
 ### DevOps
-- Proficient with basic Linux commands and shell scripting
-- Configuring cron jobs and Apache VHOST settings
-- Understanding of CI/CD processes and container environments
-
-### Frontend Development
-- Building partial Single Page Applications (SPA) using Vanilla JS and AJAX
-- DOM manipulation with JQuery and publishing with CSS/HTML5
+- Writing Basic Linux Commands and Shell Scripts
+- Understanding CI/CD and Container Environments
 
 ### Communication
-- Leading planning, review, and execution processes with the team
-- Conducting code reviews and pair programming
+- Taking a leading role in planning, designing, and implementing with working teams
+- Prefers Code Review and Pair Programming
 
-## Troubleshooting & Collaboration Examples
-- **Automation of Billing and Statistics Features:** Automated manual calculation processes, reducing technical debt.
-- **Legacy Site Refactoring:** Improved performance and readability, enhancing maintainability.
-- **3D CAD Program Design:** Collaborated with engineers to optimize data structures and rendering performance.
-- **WMS System Development:** Worked with operational staff to propose and develop efficiency-enhancing features.
+## Troubleshooting and Collaboration Examples
+- **Proposal for Automation of Settlement and Statistics Functions:** Automated manual calculation processes, eliminating technical debt.
+- **Refactoring of Legacy Site:** Improved performance, readability, and maintainability.
+- **Designing a 3D CAD Program:** Collaborated with engineers to improve data structure and rendering performance.
+- **Development of New WMS System:** Collaborated with field workers to propose and develop features that enhance efficiency.
 
-## Professional Experience
+## Work Experience
 
-### **TourMarketing Korea Co., Ltd.** `Sep 2018 ~ Apr 2024`  
-**Deputy Manager, IT Planning Team**  
-- **Maintenance & Migration of Cruise/Rental Car Reservation Sites** `Sep 2018 ~ Apr 2024`: Improved back-office functionalities, automated statistics and billing, refactored the database, integrated external reservation engines.
-- **Migration of Cruise/Rental Car Reservation Sites** `Jan 2020 ~ Feb 2022`: Transitioned from Legacy PHP to MVC frameworks, enhancing performance and modularizing code.
-- **Rebuilding Car Rental Reservation Site with Java/Spring (Cancelled)** `Jun 2022 ~ Sep 2023`: Assisted in planning and led the design of infrastructure, database, and domain.
+### **Tour Marketing Korea Co., Ltd.** `2018.09 ~ 2024.04`  
+**Deputy Manager of IT Planning Team**  
+- **Maintenance of Cruise/Car Rental Reservation Site `2018.09 ~ 2024.04`:** Improved back-office, automated statistics and settlement, refactored DB, integrated external reservation engines.
+- **Migration of Cruise/Car Rental Reservation Site `2020.01 ~ 2022.02`:** Migrated from legacy PHP to MVC framework, improved performance, and modularized code.
+- **Reconstruction of Car Rental Reservation Site with Java/Spring (suspended) `2022.06 ~ 2023.09`:** Assisted in planning and led infrastructure, DB, and domain design.
 
-### **Dino Co., Ltd.** `May 2017 ~ Sep 2018`  
-**Manager, Development Team**  
-- Developed BIM programs for semiconductor plant design. Developed import/export functionalities for 3D graphics programs (Revit, 3DS Max) using C# and C++.
+### **Dino Co., Ltd.** `2017.05 ~ 2018.09`  
+**Development Team Manager**  
+- Developed BIM programs for semiconductor plant design. Developed Import/Export functions for 3D graphics programs (Revit, 3DS Max) using C#/C++.
 
-### **Real Identity Co., Ltd.** `Mar 2016 ~ May 2017`  
-**Senior Researcher, R&D Lab**  
-- Researched and developed biometric fingerprint verification algorithms. Developed STM32 firmware using C# and C++.
+### **Real Identity Co., Ltd.** `2016.03 ~ 2017.05`  
+**Senior Researcher**  
+- Researched and developed a biometric fingerprint recognition algorithm. Developed STM32 firmware using C#/C++.
 
-### **Pongdang.com Co., Ltd.** `Mar 2015 ~ Mar 2016`  
-**Manager, Development Team**  
-- Maintained and developed an e-commerce site and a new Warehouse Management System (WMS) using PHP and MySQL.
+### **Pongdang.com Co., Ltd.** `2015.03 ~ 2016.03`  
+**Development Team Manager**  
+- Maintained e-commerce platforms and developed new WMS. Used PHP and MySQL.
 
-### **RealFont Co., Ltd.** `Sep 2013 ~ Mar 2015`  
-**Senior Researcher, R&D Lab**  
-- Maintained and developed a personal font creation application using Android, PHP, and C.
+### **RealFont Co., Ltd.** `2013.09 ~ 2015.03`  
+**Senior Researcher**  
+- Maintained a personal font creation app. Used Android, PHP, and C.
 
-### **KAIST** `Aug 2010 ~ Nov 2011`  
+### **KAIST** `2010.08 ~ 2011.11`  
 **Researcher**  
-- Conducted research on gene/protein expression graph visualization within cells using Java.
+- Researched data visualization of gene/protein expression in cells. Used Java.
 
 ## Education
 
-### **KAIST** `Aug 2008 ~ Aug 2010`  
-**M.S. in Bio & Brain Engineering**  
-- Researched automated digital circuit design algorithms using evolutionary algorithms. Utilized C++, JAVA, and MATLAB.
+### **KAIST** `2008.08 ~ 2010.08`  
+**Master's in Bio and Brain Engineering**  
+- Conducted research on digital circuit design using evolutionary algorithms. Used C++/JAVA/MatLAB.
 
-### **Hansung University** `Mar 2001 ~ Aug 2008`  
-**B.S. in Information & Communication Engineering**  
-- **Senior Project:** Designed and implemented an 8-bit MCU using FPGA and C.
+### **Hansung University** `2001.03 ~ 2008.08`  
+**Bachelor's in Information and Communication Engineering**  
+- Conducted a project on designing an 8-bit MCU based on FPGA.
 
-## Additional Experience
-- **Working Holiday in Australia** `Dec 2011 ~ Nov 2012`
+## Other Experience
+- **Working Holiday in Australia** `2011.12 ~ 2012.11`
 
-## Language & Communication
-- **English:**
-  - Proficient in business conversations, both written and verbal.
-  - **TOEIC:** 905
-  - **OPIC:** IM3
-- **Korean:**
-  - Native language.
+## Language and Communication
+- English: Capable of business communication. TOEIC 905, OPIC IM3.
+- Korean: Native language.
 
 ## Links
-- [Coding Test Study](https://github.com/lordchiwoo/algo_programmers)  
-- [Python Coding Test Study](https://github.com/lordchiwoo/algorithm_python)  
+- [Coding Test Study Notes](https://github.com/lordchiwoo/algo_programmers)  
+- [Python Coding Test Study Notes](https://github.com/lordchiwoo/algorithm_python)  
 - [DDD Study](https://github.com/lordchiwoo/study_ddd_202206)
