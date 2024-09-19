@@ -2,8 +2,9 @@
 
 **Email:** <lordchiwoo@gmail.com>  
 **Phone:** +82 10 2859 2148
-
-Hello, I am Geoyong Kim, a developer with 11 years of experience.  
+ 
+Hello, I am Guoyong Kim, or you can call me Leone, if my korean name is tongue-twister for you.
+I am a developer with 11 years of experience.  
 I quickly learn new technologies and always strive to improve code quality.  
 I prioritize problem-solving, optimization, and efficient collaboration.  
 Rather than focusing on just getting things done, I want to focus on how to get things done "well."
