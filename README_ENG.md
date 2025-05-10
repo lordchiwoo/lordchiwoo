@@ -1,94 +1,107 @@
-# Guoyong Kim (Leone Kim)
+# Leone Kim (GuoYong Kim)
 
-**Email:** <lordchiwoo@gmail.com>  
-**Phone:** +82 10 2859 2148
- 
-Hello, I am Guoyong Kim, or you can call me Leone, if my korean name is tongue-twister for you.
-I am a developer with 11 years of experience.  
-I quickly learn new technologies and always strive to improve code quality.  
-I prioritize problem-solving, optimization, and efficient collaboration.  
-Rather than focusing on just getting things done, I want to focus on how to get things done "well."
+Email: [lordchiwoo@gmail.com](mailto:lordchiwoo@gmail.com)  
+Phone: +82 10 2859 2148
 
-## Main Interests
-- Improving Code Quality
-- Reliable Collaboration
+---
 
-## Technologies Used
-**Languages:** PHP (7 years), JavaScript (5 years), C# / C++ (2.5 years), Java (2.5 years), Python (0.5 years)  
-**Frameworks:** CodeIgniter (7 years), WPF (2.5 years), Android (1.5 years)  
-**DB:** MySQL (8.5 years)  
-**OS:** Linux (8.5 years)  
-**Others:** STM32 Embedded Development (1 year), Spring Toy Projects (6 months)
+## 👋 Introduction
 
-## Main Duties
-### Backend
-- Legacy Code Analysis and Performance Optimization
-- Improving Bottlenecks and Proposing Workarounds
+I am a backend/software developer with 13 years of experience. I am quick to learn new domains and always strive to improve code quality. I value problem-solving, optimization, and efficient collaboration. I focus more on how to make things "well" rather than just "how" to do them.
 
-### Database
-- Writing Advanced Queries using Group Functions and Multiple Joins
-- Query Performance Optimization
+---
 
-### DevOps
-- Writing Basic Linux Commands and Shell Scripts
-- Understanding CI/CD and Container Environments
+## 🚀 Key Skills
 
-### Communication
-- Taking a leading role in planning, designing, and implementing with working teams
-- Prefers Code Review and Pair Programming
+* Backend Development: Legacy code analysis and improvement
+* Database: Advanced query writing, query/schema optimization
+* DevOps: AWS infrastructure management, basic Linux shell scripting
+* Collaboration: Leading planning/design stages, code reviews
 
-## Troubleshooting and Collaboration Examples
-- **Proposal for Automation of Settlement and Statistics Functions:** Automated manual calculation processes, eliminating technical debt.
-- **Refactoring of Legacy Site:** Improved performance, readability, and maintainability.
-- **Designing a 3D CAD Program:** Collaborated with engineers to improve data structure and rendering performance.
-- **Development of New WMS System:** Collaborated with field workers to propose and develop features that enhance efficiency.
+---
 
-## Work Experience
+## 🛠️ Tech Stack
 
-### **Tour Marketing Korea Co., Ltd.** `2018.09 ~ 2024.04`  
-**Deputy Manager of IT Planning Team**  
-- **Maintenance of Cruise/Car Rental Reservation Site `2018.09 ~ 2024.04`:** Improved back-office, automated statistics and settlement, refactored DB, integrated external reservation engines.
-- **Migration of Cruise/Car Rental Reservation Site `2020.01 ~ 2022.02`:** Migrated from legacy PHP to MVC framework, improved performance, and modularized code.
-- **Reconstruction of Car Rental Reservation Site with Java/Spring (suspended) `2022.06 ~ 2023.09`:** Assisted in planning and led infrastructure, DB, and domain design.
+Programming Languages: PHP (7 years), JavaScript (5 years), C#/C++ (2.5 years), Java (3 years), Python (0.5 years)  
+Frameworks: CodeIgniter, Spring (Toy projects), WPF, Android  
+Databases: MySQL (8.5 years)  
+Operating Systems: Linux (8.5 years)  
+Others: STM32 embedded development, Shell scripting
 
-### **Dino Co., Ltd.** `2017.05 ~ 2018.09`  
-**Development Team Manager**  
-- Developed BIM programs for semiconductor plant design. Developed Import/Export functions for 3D graphics programs (Revit, 3DS Max) using C#/C++.
+---
 
-### **Real Identity Co., Ltd.** `2016.03 ~ 2017.05`  
-**Senior Researcher**  
-- Researched and developed a biometric fingerprint recognition algorithm. Developed STM32 firmware using C#/C++.
+## 💼 Experience
 
-### **Pongdang.com Co., Ltd.** `2015.03 ~ 2016.03`  
-**Development Team Manager**  
-- Maintained e-commerce platforms and developed new WMS. Used PHP and MySQL.
+### Namerica Accountancy LLP (Freelancer) *2024.09 - 2025.04*
+*Tech Stack: Java, Spring Boot, AWS (EC2, RDS), JPA, MySQL*
+* Built a CRM system for customer acquisition, task allocation, and tracking of accounting task progress
 
-### **RealFont Co., Ltd.** `2013.09 ~ 2015.03`  
-**Senior Researcher**  
-- Maintained a personal font creation app. Used Android, PHP, and C.
+---
 
-### **KAIST** `2010.08 ~ 2011.11`  
-**Researcher**  
-- Researched data visualization of gene/protein expression in cells. Used Java.
+### Tour Marketing Korea (IT Planning Team Deputy Manager) *2018.09 - 2024.04*
+*Tech Stack: PHP, CodeIgniter, MySQL, AWS EC2*
 
-## Education
+* Situation: Low efficiency of practical tasks due to legacy user page/back office systems
+* Responsibilities: Improved operational efficiency and scalability of cruise/rental car booking platform
+* Execution:  
+  * Refactored legacy code and DB schema, improved slow queries
+  * Improved back-office task efficiency and automated billing
+  * Migrated services from legacy PHP to MVC framework (CodeIgniter)  
+* Results:  
+  * Reduced scope and time required for manual billing
+  * Improved site performance and maintainability, enhanced security by introducing AWS ALB, WAF
+  * Migrated cruise service to an external booking engine
+  * Migrated rental car service to Java/Spring Boot (project halted due to business reasons)
+  * Led planning, infrastructure, DB, domain design, and partially built services
 
-### **KAIST** `2008.08 ~ 2010.08`  
-**Master's in Bio and Brain Engineering**  
-- Conducted research on digital circuit design using evolutionary algorithms. Used C++/JAVA/MatLAB.
+---
 
-### **Hansung University** `2001.03 ~ 2008.08`  
-**Bachelor's in Information and Communication Engineering**  
-- Conducted a project on designing an 8-bit MCU based on FPGA.
+### Dino Co., Ltd. (Development Team Manager) *2017.05 - 2018.09*
+* Developed a new BIM (Building Information Management) system for semiconductor plant design
+* Developed import/export functions for 3D graphics programs (Revit, 3DS Max) using C#/C++
+* Conducted research on spatial data structures for PointCloud data rendering
 
-## Other Experience
-- **Working Holiday in Australia** `2011.12 ~ 2012.11`
+---
 
-## Language and Communication
-- English: Capable of business communication. TOEIC 905, OPIC IM3.
-- Korean: Native language.
+### Real Identity Co., Ltd. (Researcher) *2016.03 - 2017.05*
+* Developed fingerprint recognition algorithms, STM32 firmware development using C#/C++
 
-## Links
-- [Coding Test Study Notes](https://github.com/lordchiwoo/algo_programmers)  
-- [Python Coding Test Study Notes](https://github.com/lordchiwoo/algorithm_python)  
-- [DDD Study](https://github.com/lordchiwoo/study_ddd_202206)
+---
+
+### Pondang.com (Development Team Manager) *2015.03 - 2016.03*
+* Maintained shopping mall platform and developed new WMS (Warehouse Management System) using PHP, MySQL
+
+---
+
+### Realfont (Researcher) *2013.09 - 2015.03*
+* Maintained personal handwriting font creation app using Android, PHP, C
+
+---
+
+### KAIST SBIE Lab (Researcher) *2010.08 - 2011.11*
+* Conducted research on gene/protein expression graph visualization using JAVA
+
+---
+
+## 🎓 Education
+
+### KAIST, Department of Bio and Brain Engineering
+*Master's Degree (2008.08 - 2010.08)*
+- Research on digital circuit design using evolutionary algorithms (C++, Java, MATLAB)
+
+### Hansung University, Department of Information and Communication Engineering
+*Bachelor's Degree (2001.03 - 2008.08)*
+- FPGA-based 8-bit MCU design project
+
+---
+
+## 🌐 Links
+* [Coding Test Study Notes](https://github.com/lordchiwoo/algo_programmers)  
+* [Python Coding Test Study Notes](https://github.com/lordchiwoo/algorithm_python)  
+* [DDD Study](https://github.com/lordchiwoo/study_ddd_202206)
+
+---
+
+## 🗣️ Languages
+* English: Business level (TOEIC 905, OPIC IM3)  
+* Korean: Native
