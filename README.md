@@ -24,9 +24,9 @@
 
 ## 🛠️ 기술 스택
 
-프로그래밍 언어: PHP (7년), JavaScript (5년), C#/C++ (2.5년), Java (3년), Python (0.5년)  
-프레임워크: CodeIgniter, Spring (Toy 프로젝트), WPF, Android  
-데이터베이스: MySQL (8.5년)  
+프로그래밍 언어: Java (5년), PHP (7년), JavaScript (5년), C#/C++ (2.5년), Python (0.5년)  
+프레임워크: Spring Framework/Boot, CodeIgniter, WPF, Android  
+데이터베이스: MySQL (8.5년), Tibero/Oracle (0.5년)
 운영 체제: Linux (8.5년)  
 기타: STM32 임베디드 개발, 쉘 스크립트
 
@@ -34,9 +34,18 @@
 
 ## 💼 경력
 
-### Namerica Accountancy LLP (프리랜서) *2024.09 - 2025.04*
+### 컨씨플레이 (프리랜서) *2025.11 - 재직중*
+*기술 스택: Java(1.7), Spring Framework, Tibero, JSP, 넥사크로*
+* H자동차 기업 해외판매시스템 유지보수 업무
+* 로그인 서비스 기능 추가 및 전면 리팩토링 
+	- FIDO/Google OTP 기능 추가
+	- Fat, Duplicated Controller -> Service 분리 및 Facade, Rule Based Authentication 도입
+
+---
+
+### Namerica Accountancy LLP (프리랜서) *2024.09 - 2025.11*
 *기술 스택: Java, Spring Boot, AWS(EC2, RDS), JPA, MySQL*
-* 고객 모집, 회계 Task 분배 및 진행 상황 추적을 위한 CRM 시스템 구축 
+* 고객 모집, 회계 Task 분배 및 진행 상황 추적을 위한 CRM 시스템 구축 (기획/설계/개발)
 
 ---
 
