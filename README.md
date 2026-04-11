@@ -1,34 +1,54 @@
-## If you feel more comfort to use english, see [https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md](https://github.com/lordchiwoo/lordchiwoo/blob/main/README_ENG.md)
-
 # 김거용 (Leone Kim)
 
-이메일: [lordchiwoo@gmail.com](mailto:lordchiwoo@gmail.com)  
+이메일: [lordchiwoo@gmail.com](mailto:lordchiwoo@gmail.com)
 전화: +82 10 2859 2148
 
 ---
 
 ## 👋 자기소개
 
-13년차 백엔드/소프트웨어 개발자입니다. 새로운 도메인에 대한 지식 습득이 매우 빠른 편입니다. 코드의 품질을 높이기 위해 항상 노력합니다. 문제 해결과 최적화, 그리고 효율적인 협업을 중요하게 생각합니다. 어떻게 되게 하느냐보다 어떻게 "잘" 되게 하느냐를 더 고민하고 싶습니다.
+13년차 백엔드/소프트웨어 개발자로서, 단순히 주어진 Task를 해결하기보다 문제의 본질을 파악하고 실무자와 함께 현실적인 제약과 사용자의 진정한 요구를 논의하여 최적의 방향을 모색합니다. 코드의 품질을 높이고 효율적인 협업을 중요하게 생각하며, '어떻게 되게 하느냐'를 넘어 '어떻게 잘 되게 하느냐'를 고민하며 실제 사용자에게 최대한의 편의와 가치를 제공하는 데 집중합니다.
+다방면에 대한 깊은 관심과 빠른 도메인 학습 능력을 바탕으로 백오피스 사용자의 업무 프로세스를 파악하고 정규화하여 자동화 시스템을 구축한 경험, 그리고 사용자들과 직접 소통하며 바닥부터 기획하여 CRM 솔루션을 개발한 경험 등 다채로운 프로젝트를 성공적으로 이끌어왔습니다. 2024년부터 Cursor, Antigravity를 활용하기 시작하여 현재는 Claude Code, OpenCode 등 최신 AI 개발 도구를 적극적으로 사용하여 개발 생산성을 극대화하고 있습니다.
+특히, AI 시대에 걸맞은 저의 강점은 속독 능력에 기반하여 Spec/Plan 문서와 소스코드 전반에 걸친 AI 산출물을 빠르게 스키밍하고, 그 속에서 부족한 부분과 잘된 부분을 민첩하게 캐치하여 효과적인 개선 루프를 이끌어내는 데 있습니다.
 
 ---
 
 ## 🚀 주요 역량
 
-* 백엔드 개발: 레거시 코드 분석 및 개선
-* 데이터베이스: 고급 쿼리 작성, 쿼리/스키마 최적화
-* DevOps: AWS 인프라 관리, 기초적인 리눅스 셸 스크립트
-* 협업: 기획/설계 단계 리딩, 코드 리뷰
+- 백엔드 개발: 레거시 코드 분석 및 개선
+    - H사 해외판매 시스템 로그인 프로세스 전반의 복잡한 인증 로직과 스파게티 코드를 분석하여 Service/Facade/Rule Based Authentication 패턴 도입으로 리팩토링, 가독성 및 유지보수성을 획기적으로 강화
+- 데이터베이스: 고급 쿼리 작성, 쿼리/스키마 최적화
+    - Slow Query 분석 및 인덱스, 파티셔닝 전략 적용 등으로 쿼리 속도 개선에 기여
+- DevOps:
+    - AWS 인프라 관리 : EC2, RDS, S3, ALB, Route53 등 다양한 AWS 서비스 운영 경험
+    - Github/Gitlab CI/CD 파이프라인을 구축 및 활용하여 빌드, 테스트, 배포 프로세스 자동화 및 안정화 기여
+- 협업: 기획/설계 단계 리딩
+    - 비즈니스 요구사항을 기술적으로 분석하여 도메인 주도 설계(DDD) 원칙 기반의 도메인 모델 설계 주도
+    - 코드 리뷰에 있어서 속독 능력으로 코드/리뷰 개요를 빠르게 파악하고, AI 리뷰 결과를 비판적으로 검토하여 반영 여부를 결정하며 동료 개발자에게 건설적인 피드백 및 가이드 제공
+- AI 기반 개발 생산성 향상
+    - Cursor, Antigravity, Claude Code 등 최신 AI 코딩 도구를 적극 활용하여 보일러플레이트 코드 자동 생성, 복잡한 로직 리팩토링 제안, 효율적인 디버깅 지원 등을 통해 개발 생산성을 [정량적 수치: X% 이상] 증대 및 개발 주기 단축
+    - 특히 Spec/Plan 문서와 소스코드 전반에 걸친 AI 산출물을 빠르게 스키밍하고 부족한 부분과 잘된 부분을 민첩하게 캐치하여 개선 루프를 이끌어내는 독점적인 강점을 보유. 새로운 기술 습득 및 적용에 능숙함.
 
 ---
 
 ## 🛠️ 기술 스택
 
-프로그래밍 언어: Java (5년), PHP (7년), JavaScript (5년), C#/C++ (2.5년), Python (0.5년)  
-프레임워크: Spring Framework/Boot, CodeIgniter, WPF, Android  
-데이터베이스: MySQL (8.5년), Tibero/Oracle (0.5년)
-운영 체제: Linux (8.5년)  
-기타: STM32 임베디드 개발, 쉘 스크립트
+- 프로그래밍 언어:
+    - Java (5년 - Spring/Spring Boot 기반 시스템 개발/운영)
+    - PHP (7년 - 레거시 시스템 분석 및 마이그레이션)
+    - JavaScript (5년 - FullStack 개발자로 Jquery등 사용)
+    - C#/C++ (2.5년 - 임베디드, 3D 그래픽스 처리)
+    - Python (0.5년 - 툴/MCP 스크립트, 자동화, 데이터 분석)
+    - JSP (0.5년)
+- 데이터베이스:
+    - MySQL (8.5년 - 성능 최적화, 대용량 데이터 처리)
+    - Tibero/Oracle (0.5년 - 엔터프라이즈 환경 경험)
+- 운영 체제: Linux (8.5년 - 서버 환경 구성 및 운영 자동화)
+- 기타: STM32 임베디드 개발
+- 클라우드: AWS (EC2, RDS, ALB, S3, Route53)
+- 협업 도구: Git, Jira, Confluence, Slack
+- CI/CD: GitLab CI/CD
+- AI Agentic Tools: Cursor, Antigravity, Claude Code, OpenCode (with oh-my-openagent)
 
 ---
 
@@ -36,61 +56,65 @@
 
 ### 컨씨플레이 (프리랜서) *2025.11 - 재직중*
 *기술 스택: Java(1.7), Spring Framework, Tibero, JSP, 넥사크로*
-* H자동차 기업 해외판매시스템 유지보수 업무
-* 로그인 서비스 기능 추가 및 전면 리팩토링 
-	- FIDO/Google OTP 기능 추가
-	- Fat, Duplicated Controller -> Service 분리 및 Facade, Rule Based Authentication 도입
+- H자동차 기업 해외판매시스템 유지보수 업무
+- 로그인 서비스 기능 추가 및 전면 리팩토링 
+    - FIDO/Google OTP 기능 추가
+    - 배경: 기존 로그인 서비스의 보안 강화를 위해 FIDO/Google OTP 기능 추가 및
+    - 실행:  유지보수성 개선을 위해, Fat Controller Logic을 Service 분리 및 Facade, Rule Based Authentication 도입하여 리팩토링 및 신규 기능 개발 생산성 향상.
+    - 결과: 유지보수 및 확장 용이성 개선
 
 ---
 
 ### Namerica Accountancy LLP (프리랜서) *2024.09 - 2025.11*
-*기술 스택: Java, Spring Boot, AWS(EC2, RDS), JPA, MySQL*
-* 고객 모집, 회계 Task 분배 및 진행 상황 추적을 위한 CRM 시스템 구축 (기획/설계/개발)
+*기술 스택: Java, Spring Boot, AWS(EC2, RDS), JPA, MySQL, Stripe(결제)*
+- 고객 모집, 회계 Task 분배 및 진행 상황 추적을 위한 CRM 시스템 구축 (기획/설계/개발)
+    - 상황: 수동적인 고객 관리 및 Task 배분으로 비싼 시급의 회계사가 회계 본연의 업무보다 백오피스잡을 수동으로 처리하고 있던 상황
+    - 실행: 비즈니스 요구사항 분석부터 시스템 아키텍처 설계 (가급적 DDD와 REST API 구조 준용), 데이터 모델링 (JPA+JPQL), 백엔드 개발 및 AWS 인프라 (EC2, RDS) 배포까지 전 과정 주도. 이 과정에서 Cursor, Antigravity 등 AI 코딩 도구를 적극 활용하여 개발 초기 단계의 효율성 극대화.
+    - 결과: CRM 시스템 도입을 통해 수동으로 Tax 및 Monthly Service 관련 자료 요청, 사용료 요청 메일을 발송하고 처리 여부를 엑셀로 관리하는 불가피한 노동을 자동화하고 본업에 집중
 
 ---
 
 ### (주)투어마케팅코리아 (IT 기획팀 차장) *2018.09 - 2024.04*
 *기술 스택: PHP, CodeIgniter, MySQL, AWS EC2*
 
-* 상황: 레거시 유저페이지/백오피스 시스템으로 인한 실무자들의 낮은 업무 효율
-* 업무: 크루즈/렌터카 예약 플랫폼의 운영 효율성 및 확장성 개선  
-* 실행:  
-  * 레거시 코드 및 DB 스키마 리팩토링, SlowQuery 분석 및 개선
-  * 백오피스 업무 효율성 개선 및 정산 자동화
-  * Legacy PHP에서 MVC 프레임워크(CodeIgniter)로 서비스 마이그레이션  
-* 결과:  
-  * 수동 정산 업무범위 축소 및 소요시간 감소  
-  * 사이트 성능 및 유지보수성 개선, AWS ALB, WAF 등을 도입하여 보안 이슈 개선
-  * 크루즈 서비스 외부 예약 엔진으로 마이그레이션 
-  * 렌터카 서비스 Java/Spring Boot 기반 마이그레이션(경영상의 이유로 진행 중단)
-  * 기획 보조 및 인프라, DB, 도메인 설계 주도 및 일부 서비스 구축
+- 상황: 레거시 유저페이지/백오피스 시스템으로 인한 실무자들의 낮은 업무 효율 [추가] 및 [확장성/보안 취약성 문제]
+- 업무: 크루즈/렌터카 예약 플랫폼의 운영 효율성 및 확장성 개선
+- 실행:
+    - 레거시 코드 및 DB 스키마 리팩토링, SlowQuery 분석 및 개선
+    - 백오피스 업무 효율성 개선 및 정산 자동화로 수동 정산 업무범위(95%) 축소
+    - KT Cloude에서 AWS EC2/RDS로 이전하면서 VPC/ALB/WAF 등을 이용하여 보안 이슈 개선
+    - Legacy PHP에서 MVC 프레임워크(CodeIgniter)로 서비스 마이그레이션을 통해 코드 가독성, 유지보수성, 개발 생산성 향상
+	- 렌터카 서비스 Java/Spring Boot 기반 마이그레이션 (초기 아키텍처 설계 및 기술 스택 선정 주도)
+		- 기획 보조 및 인프라, DB, 도메인 설계 주도 및 일부 서비스 구축
+		- 경영상의 이유로 진행 중단
 
 ---
 
 ### (주)디노 (개발팀 과장) *2017.05 - 2018.09*
 
-* S사/H사 향 반도체 플랜트 설계 BIM(Building Information Management)시스템 신규 개발
-* C#/C++를 사용하여 3D 그래픽 프로그램(Revit, 3DS Max)용 import/export 기능 개발
-* PointCloud Data Rendering을 위한 Spatial Data Structure 연구 개발
+- S사/H사 향 반도체 플랜트 설계 BIM(Building Information Management)시스템 신규 개발
+- C#/C++를 사용하여 3D 그래픽 프로그램(Revit, 3DS Max)용 import/export 기능 개발 [추가] (주요 기여 기능 명시)
+- PointCloud Data Rendering을 위한 Spatial Data Structure 연구 개발 [추가] (예: Octree, KD-Tree 활용 및 실제 시스템 적용)
+
 ---
 
 ### (주)리얼아이덴티티 (연구원) *2016.03 - 2017.05*
-* 생체 지문 판별 알고리즘 연구/개발. STM32 펌웨어 개발. C#/C++ 사용.
+- 생체 지문 판별 알고리즘 연구/개발. STM32 펌웨어 개발. C#/C++ 사용. [추가] (어떤 알고리즘에 기여했는지, 어떤 성과가 있었는지)
 
 ---
 
 ### 퐁당닷컴 (개발팀 과장) *2015.03 - 2016.03*
-* 쇼핑몰 유지보수 및 신규 WMS 개발. PHP, MySQL 사용
+- 쇼핑몰 유지보수 및 신규 WMS 개발. PHP, MySQL 사용 [추가] (WMS 개발 시 기여했던 구체적인 기능 또는 개선점 명시)
 
 ---
 
 ### 리얼폰트 (연구원) *2013.09 - 2015.03*
-* 개인 필기체 폰트 제작 앱 유지보수. Android, PHP, C 사용.
+- 개인 필기체 폰트 제작 앱 유지보수. Android, PHP, C 사용. [추가] (어떤 유지보수, 어떤 개선을 했는지 명시)
 
 ---
 
 ### 카이스트 SBIE Lab (연구원) *2010.08 - 2011.11*
-* 세포 내 유전자/단백질 발현 그래프 시각화 연구, JAVA 사용
+- 세포 내 유전자/단백질 발현 그래프 시각화 연구, JAVA 사용 [추가] (연구 성과 또는 기여 간략화)
 
 ---
 
@@ -106,13 +130,6 @@
 
 ---
 
-## 🌐 링크
-* [코딩 테스트 공부 노트](https://github.com/lordchiwoo/algo_programmers)  
-* [파이썬 코딩 테스트 공부 노트](https://github.com/lordchiwoo/algorithm_python)  
-* [DDD 스터디](https://github.com/lordchiwoo/study_ddd_202206)
-
----
-
 ## 🗣️ 언어
-* 영어: 비즈니스 수준 (TOEIC 905, OPIC IM3)  
-* 한국어: 원어민
+- 영어: 비즈니스 수준 (TOEIC 905, OPIC IM3)
+- 한국어: 원어민
