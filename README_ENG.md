@@ -7,9 +7,9 @@ Phone: +82 10 2859 2148
 
 ## 👋 About Me
 
-As a backend/software developer with 13 years of experience, I don't just solve assigned tasks; I strive to understand the essence of a problem, discuss realistic constraints and users' true needs with stakeholders, and seek optimal solutions. I prioritize enhancing code quality and efficient collaboration, focusing on 'how to make it work well' rather than just 'how to make it work,' thereby providing maximum convenience and value to actual users.
-With deep interest in various fields and a rapid domain learning ability, I have successfully led diverse projects. These include building automated systems by understanding and normalizing back-office users' work processes, and developing CRM solutions from scratch through direct communication with users. Starting in 2024, I began utilizing Cursor and Antigravity, and currently actively use cutting-edge AI development tools such as Claude Code and OpenCode to maximize development productivity.
-In the era of AI, my particular strength lies in my speed-reading ability, which allows me to quickly skim AI outputs across Spec/Plan documents and source code. I can agilely identify areas for improvement and well-executed parts within these outputs, thereby driving an effective improvement loop.
+- As a backend/software developer with 13 years of experience, I don't just solve assigned tasks; I strive to understand the essence of a problem, discuss realistic constraints and users' true needs with stakeholders, and seek optimal solutions. I prioritize enhancing code quality and efficient collaboration, focusing on 'how to make it work well' rather than just 'how to make it work,' thereby providing maximum convenience and value to actual users.
+- With deep interest in various fields and a rapid domain learning ability, I have successfully led diverse projects. These include building automated systems by understanding and normalizing back-office users' work processes, and developing CRM solutions from scratch through direct communication with users. Starting in 2024, I began utilizing Cursor and Antigravity, and currently actively use cutting-edge AI development tools such as Claude Code and OpenCode to maximize development productivity.
+- In the era of AI, my particular strength lies in my speed-reading ability, which allows me to quickly skim AI outputs across Spec/Plan documents and source code. I can agilely identify areas for improvement and well-executed parts within these outputs, thereby driving an effective improvement loop.
 
 ---
 
