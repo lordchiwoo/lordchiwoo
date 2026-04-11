@@ -1,4 +1,4 @@
-# Kim Geoyong (Leone Kim)
+# Kim Guoyong (Leone Kim)
 
 Email: [lordchiwoo@gmail.com](mailto:lordchiwoo@gmail.com)
 Phone: +82 10 2859 2148
