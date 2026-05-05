@@ -43,7 +43,6 @@ Phone: +82 10 2859 2148
 -   **Databases:**
     -   MySQL (8.5 years - Performance optimization, large-scale data processing)
     -   Tibero/Oracle (0.5 years - Enterprise environment experience)
--   **Operating Systems:** Linux (8.5 years - Server environment configuration and operation automation)
 -   **Others:** STM32 embedded development
 -   **Cloud:** AWS (EC2, RDS, ALB, S3, Route53)
 -   **Collaboration Tools:** Git, Jira, Confluence, Slack
@@ -97,22 +96,22 @@ Phone: +82 10 2859 2148
 ---
 
 ### Real Identity Co., Ltd. (Researcher) *Mar 2016 - May 2017*
--   Researched and developed biometric fingerprint identification algorithms. Developed STM32 firmware using C#/C++. Contributed to specific algorithms and achieved certain performance improvements.
+-   Researched and developed biometric fingerprint identification algorithms. Developed STM32 firmware using C#/C++.
 
 ---
 
 ### Pongdang.com (Manager, Development Team) *Mar 2015 - Mar 2016*
--   Maintained shopping mall and developed new WMS using PHP, MySQL. Contributed to specific functionalities or improvements in WMS development.
+-   Maintained shopping mall and developed new WMS using PHP, MySQL.
 
 ---
 
 ### Realfont (Researcher) *Sep 2013 - Mar 2015*
--   Maintained an app for creating personalized handwritten fonts using Android, PHP, C. Performed specific maintenance tasks and implemented improvements.
+-   Maintained an app for creating personalized handwritten fonts using Android, PHP, C.
 
 ---
 
 ### KAIST SBIE Lab (Researcher) *Aug 2010 - Nov 2011*
--   Researched visualization of gene/protein expression graphs within cells using JAVA. Contributed to research outcomes by visualizing complex biological data.
+-   Researched visualization of gene/protein expression graphs within cells using JAVA.
 
 ---
 
